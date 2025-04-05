@@ -12,7 +12,7 @@ This project applies **Machine Learning (ML) regression models** to predict bike
 - [Technologies Used](#technologies-used)  
 - [Results](#results)  
 - [Contributing](#contributing)  
-- [License](#license)  
+
 
 ## 🛠 Installation  
 
